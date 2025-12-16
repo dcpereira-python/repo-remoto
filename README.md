@@ -1,2 +1,3 @@
-# repo-remoto
-repositório remoto para a conexão com nossa pasta local em nosso computador
+# Repositório remoto depois do clone
+Descrição inserida no repositório remoto depois do clone.
+
